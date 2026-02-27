@@ -50,5 +50,5 @@ Open the project in your IDE, Build it and run the program.
 
 # Communicate with Me
 If you have questions or need support, feel free to reach out to me:
-[Telegram](https://t.me/hvn_vladislav)
+*Telegram* - https://t.me/hvn_vladislav 
 *Gmail* - hvnvladislav@gmail.com

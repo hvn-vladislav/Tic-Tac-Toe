@@ -48,7 +48,7 @@ Open the project in your IDE, Build it and run the program.
 ---
 
 
-# Communicate with Me
+# Social Medias
 If you have questions or need support, feel free to reach out to me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) - https://t.me/hvn_vladislav 

@@ -3,8 +3,7 @@
 This project recreates the classic 3x3 strategy game with an interactive menu system, colored symbols, and a clean console interface powered by Windows API functions. It’s lightweight, responsive, and designed to run entirely inside the Windows console without any external frameworks.
 
 
-![photo_2026-02-27_14-45-04](https://github.com/user-attachments/assets/650c7db9-dba8-48c6-ae4e-19080383dad2)
-![photo_2026-02-28_13-49-14](https://github.com/user-attachments/assets/f273c13d-8629-4e2c-8424-3582ce145362)
+![photo_2026-02-27_14-45-04](https://github.com/user-attachments/assets/650c7db9-dba8-48c6-ae4e-19080383dad2) ![photo_2026-02-28_13-49-14](https://github.com/user-attachments/assets/f273c13d-8629-4e2c-8424-3582ce145362)
 
 
 ---
